@@ -4,8 +4,8 @@ Production-ready AI agents for automation and productivity.
 
 ## Products
 
-| Agent | Use Case | Price |
-|-------|----------|-------|
+| Agent | Use Case | 
+|-------|----------|
 | **Research Agent** | Automated research & report generation | 
 | **Code Review Agent** | PR reviews, code quality analysis | 
 | **Data Analysis Agent** | Dataset insights, trend detection | 
