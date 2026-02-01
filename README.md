@@ -6,11 +6,11 @@ Production-ready AI agents for automation and productivity.
 
 | Agent | Use Case | Price |
 |-------|----------|-------|
-| **Research Agent** | Automated research & report generation | $49 |
-| **Code Review Agent** | PR reviews, code quality analysis | $79 |
-| **Data Analysis Agent** | Dataset insights, trend detection | $99 |
-| **Workflow Agent** | Multi-step task automation | $149 |
-| **Full Suite** | All 4 agents + updates | $299 |
+| **Research Agent** | Automated research & report generation | 
+| **Code Review Agent** | PR reviews, code quality analysis | 
+| **Data Analysis Agent** | Dataset insights, trend detection | 
+| **Workflow Agent** | Multi-step task automation | 
+| **Full Suite** | All 4 agents + updates | 
 
 ## Quick Start
 
